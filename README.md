@@ -1,1 +1,1 @@
-# lchk
+# sinatra-sample-app
